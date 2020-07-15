@@ -1,6 +1,6 @@
-built by [distriqt //](https://airnativeextensions.com) 
 
 ![](images/hero.png)
+
 
 # Windows
 
@@ -82,6 +82,5 @@ With over 40 extensions available, we are the largest provider of native extensi
 Our mobile solutions allow developers to fast-forward development and focus on building great games and apps.
 
 https://airnativeextensions.com
-
 
 
